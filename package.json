@@ -1,4 +1,19 @@
 {
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/askucher/selenium-console/issues"
+  },
+  "homepage": "https://github.com/askucher/selenium-console#readme",
+  "subversion": 3,
+  "description": "Run selenium tests in console",
+  "uperversion": "0.0",
+  "version": "0.0.3",
+  "name": "selenium-console",
+  "keywords": [
+    "selenium",
+    "console"
+  ],
+  "author": "Andrey Stegno",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/askucher/selenium-console.git"
@@ -6,20 +21,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "main": "index.js",
-  "description": "Run selenium tests in console",
-  "subversion": 2,
-  "homepage": "https://github.com/askucher/selenium-console#readme",
-  "bugs": {
-    "url": "https://github.com/askucher/selenium-console/issues"
-  },
-  "license": "ISC",
-  "author": "Andrey Stegno",
-  "keywords": [
-    "selenium",
-    "console"
-  ],
-  "name": "selenium-console",
-  "version": "0.0.2",
-  "uperversion": "0.0"
+  "main": "index.js"
 }
